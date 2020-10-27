@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "320808590348",
+    "firebase_url": "https://dropfood-d34c3.firebaseio.com",
+    "project_id": "dropfood-d34c3",
+    "storage_bucket": "dropfood-d34c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320808590348:android:7cfecce88d5b62f1a9a229",
+        "android_client_info": {
+          "package_name": "com.example.tiffany.dropfood_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320808590348-i2j2ekpld85mm6o3v1gudvjroin2dq0g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tiffany.dropfood_project",
+            "certificate_hash": "83d875fae6f15f2066ac33830f3069f5894d429c"
+          }
+        },
+        {
+          "client_id": "320808590348-8ro6l9uo0t755ut7fp9bq947uubnml16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANvYuRChIJuirZRb6z8eAZdbypzkBNFcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320808590348-8ro6l9uo0t755ut7fp9bq947uubnml16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
