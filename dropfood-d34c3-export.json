@@ -1,0 +1,412 @@
+{
+  "Category" : {
+    "01" : {
+      "Image" : "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-homemade-pizza-horizontal-1542312378.png?crop=1.00xw:0.752xh;0,0.139xh&resize=1200:*",
+      "Name" : "PIZZA HUT"
+    },
+    "02" : {
+      "Image" : "https://www.cateringservices.my/wp-content/uploads/2016/04/Western-Catering-2.jpg",
+      "Name" : "NANDOS"
+    },
+    "03" : {
+      "Image" : "https://ichef.bbci.co.uk/news/976/cpsprodpb/11ADE/production/_110541427_chinesefood.jpg",
+      "Name" : "MAPLE PALACE"
+    },
+    "04" : {
+      "Image" : "https://pnshah115.github.io/kikubistro/img/food3.jpg",
+      "Name" : "SUSHI KING"
+    },
+    "05" : {
+      "Image" : "https://y101fm.com/images/articleimages/032118/KFOOD.jpg",
+      "Name" : "SEOUL GARDEN"
+    },
+    "06" : {
+      "Image" : "https://noseychef.com/wp-content/uploads/2019/11/IMG_5187.jpg",
+      "Name" : "BLACK CABIN"
+    },
+    "07" : {
+      "Image" : "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/mulligatawny_soup_68949_16x9.jpg",
+      "Name" : "WESTERN ORIENTAL"
+    },
+    "08" : {
+      "Image" : "https://assets.bonappetit.com/photos/5de7e495b79e20000879d72a/16:9/w_1200,c_limit/Amiel-Lobster-Pasta-Lede-1.jpg",
+      "Name" : "WILL WESTERN DELIGHT"
+    },
+    "09" : {
+      "Image" : "https://dev.rodpub.com/images/102/819_main.jpg",
+      "Name" : "BOOST"
+    },
+    "10" : {
+      "Image" : "https://cdn.cnn.com/cnnnext/dam/assets/181127110638-21-50-sweets-travel-black-forest-cake-full-169.jpg",
+      "Name" : "BASKIN ROBBINS"
+    }
+  },
+  "Food" : {
+    "01" : {
+      "Description" : "Pancrust pizza with tomato sauce and cheese.",
+      "Discount" : "0",
+      "Image" : "https://scootersjungle.com/placentia/wp-content/uploads/sites/4/2018/08/Papa-Johns-Cheese-Pizza-589x414-2.jpg",
+      "MenuId" : "01",
+      "Name" : "Cheese Pizza",
+      "Price" : "15.00"
+    },
+    "02" : {
+      "Description" : "Pancrust pizza with tomato sauce and veggie.",
+      "Discount" : "0",
+      "Image" : "https://images-gmi-pmc.edge-generalmills.com/32fb2446-1efc-434c-a053-7dabe8d963be.jpg",
+      "MenuId" : "01",
+      "Name" : "Veggie Pizza",
+      "Price" : "15.00"
+    },
+    "03" : {
+      "Description" : "Pancrust pizza with tomato sauce and pepperoni.",
+      "Discount" : "0",
+      "Image" : "https://www.coles.com.au/content/dam/coles/inspire-create/images-july/July20_Simple-Pesto-Pepperoni-Pizza-976x549.jpg",
+      "MenuId" : "01",
+      "Name" : "Pepperoni Pizza",
+      "Price" : "15.00"
+    },
+    "04" : {
+      "Description" : "Grilled chicken served with beans and french fries.",
+      "Discount" : "0",
+      "Image" : "https://keyassets-p2.timeincuk.net/wp/prod/wp-content/uploads/sites/53/2020/06/Nandos_Chicken_396192861_710193391-1.jpg",
+      "MenuId" : "02",
+      "Name" : "Full Platter Chicken",
+      "Price" : "20.00"
+    },
+    "05" : {
+      "Description" : "Grilled chicken served with beans and wedges.",
+      "Discount" : "0",
+      "Image" : "https://www.capitaland.com/content/dam/capitaland-sites/singapore/shop/malls/lot-one/tenants/CL_Nandos_Food.jpg.transform/cap-midres/image.jpg",
+      "MenuId" : "02",
+      "Name" : "Half Platter Chicken",
+      "Price" : "23.00"
+    },
+    "06" : {
+      "Description" : "Grilled chicken served with beans and salad.",
+      "Discount" : "0",
+      "Image" : "https://pbs.twimg.com/media/EWNxuoXXgAI5w6s.jpg",
+      "MenuId" : "02",
+      "Name" : "Set Lunch Chicken",
+      "Price" : "21.00"
+    },
+    "07" : {
+      "Description" : "Dimsum with shrimp fillings.",
+      "Discount" : "0",
+      "Image" : "https://www.thenational.ae/image/policy:1.884982:1562830908/RM_20190703_DESICHINESE_20.jpg?f=16x9&w=1200&$p$f$w=dfb357e",
+      "MenuId" : "03",
+      "Name" : "Dimsum",
+      "Price" : "10.00"
+    },
+    "08" : {
+      "Description" : "Noodles served with vegetables.",
+      "Discount" : "0",
+      "Image" : "https://i.ndtvimg.com/i/2016-06/noodles-625_625x350_41466064269.jpg",
+      "MenuId" : "03",
+      "Name" : "Fried Noodles",
+      "Price" : "8.00"
+    },
+    "09" : {
+      "Description" : "Chicken served with sweet and sour sauce.",
+      "Discount" : "0",
+      "Image" : "https://media.istockphoto.com/photos/asian-oranage-chicken-with-green-onions-picture-id483120255?k=6&m=483120255&s=612x612&w=0&h=H9m0_Ky_grAGA60D947n5TCVSCk_82sNPDTYJSYy6Fk=",
+      "MenuId" : "03",
+      "Name" : "Sweet & Sour Chicken",
+      "Price" : "14.00"
+    },
+    "10" : {
+      "Description" : "Sushi of different kinds.",
+      "Discount" : "0",
+      "Image" : "https://www.avenuek.com.my/wp-content/uploads/2014/11/Sushi_king-image.jpg",
+      "MenuId" : "04",
+      "Name" : "Set Lunch Sushi",
+      "Price" : "15.00"
+    },
+    "11" : {
+      "Description" : "Sushi of different variety.",
+      "Discount" : "0",
+      "Image" : "https://img.grouponcdn.com/deal/dSvTVozPJ4wj3CqJXcsq/5G-4368x2912.jpg/v1/c700x420.jpg",
+      "MenuId" : "04",
+      "Name" : "Set Dinner Sushi",
+      "Price" : "21.00"
+    },
+    "12" : {
+      "Description" : "8 types of sushi served.",
+      "Discount" : "0",
+      "Image" : "https://media-cdn.tripadvisor.com/media/photo-s/01/83/65/f1/sushi-platters.jpg",
+      "MenuId" : "04",
+      "Name" : "Sushi Platter",
+      "Price" : "10.00"
+    },
+    "13" : {
+      "Description" : "Rice served with kinds of vegetable and fried egg.",
+      "Discount" : "0",
+      "Image" : "https://www.thespruceeats.com/thmb/4Qckb9A9KGyG-q_czTZieMWCGgk=/2048x1367/filters:fill(auto,1)/classic-korean-bibimbap-recipe-2118765_20_preview-5b1ee284ba61770037c8ad38.jpeg",
+      "MenuId" : "05",
+      "Name" : "Bibimbap",
+      "Price" : "13.00"
+    },
+    "14" : {
+      "Description" : "Rice served with mixed meat and vegetable.",
+      "Discount" : "0",
+      "Image" : "https://cdn.cnn.com/cnnnext/dam/assets/181114130138-korean-food-2620014201204004k-jeonju-bibimbap.jpg",
+      "MenuId" : "05",
+      "Name" : "Meat Bibimbap",
+      "Price" : "14.00"
+    },
+    "15" : {
+      "Description" : "Big serving of BBQ meat.",
+      "Discount" : "0",
+      "Image" : "https://magazine.foodpanda.my/wp-content/uploads/sites/12/2020/03/cropped-Be-Amazed-with-these-5-Best-Korean-BBQ-Places-in-KL.jpg",
+      "MenuId" : "05",
+      "Name" : "Set Lunch BBQ Meat",
+      "Price" : "30.00"
+    },
+    "16" : {
+      "Description" : "Sandwich with ham fillings.",
+      "Discount" : "0",
+      "Image" : "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/190322-ham-sandwich-horizontal-1553721016.png",
+      "MenuId" : "06",
+      "Name" : "Ham Sandwich",
+      "Price" : "5.00"
+    },
+    "17" : {
+      "Description" : "Sandwich with vegetable fillings.",
+      "Discount" : "0",
+      "Image" : "https://realfood.tesco.com/media/images/RFO-1400x919-Pesto-club-sandwich-49fdd81d-d37b-46f1-a998-0309a2345baf-0-1400x919.jpg",
+      "MenuId" : "06",
+      "Name" : "Vegetable Sandwich",
+      "Price" : "6.00"
+    },
+    "18" : {
+      "Description" : "Sandwich with cheese fillings.",
+      "Discount" : "0",
+      "Image" : "https://www.simplyrecipes.com/wp-content/uploads/2019/05/EYF-Italian-Grilled-Cheese-LEAD-4.jpg",
+      "MenuId" : "06",
+      "Name" : "Cheese Sandwich",
+      "Price" : "7.00"
+    },
+    "19" : {
+      "Description" : "Soup with vegetable.",
+      "Discount" : "0",
+      "Image" : "https://www.inspiredtaste.net/wp-content/uploads/2018/10/Homemade-Vegetable-Soup-Recipe-2-1200.jpg",
+      "MenuId" : "07",
+      "Name" : "Vegetable Soup",
+      "Price" : "5.00"
+    },
+    "20" : {
+      "Description" : "Soup with chicken and noodles.",
+      "Discount" : "0",
+      "Image" : "https://www.fifteenspatulas.com/wp-content/uploads/2016/02/Chicken-Noodle-Soup-Fifteen-Spatulas-2.jpg",
+      "MenuId" : "07",
+      "Name" : "Chicken Noodle Soup",
+      "Price" : "4.00"
+    },
+    "21" : {
+      "Description" : "Soup with carrot, potato and vegetables.",
+      "Discount" : "0",
+      "Image" : "https://www.thespruceeats.com/thmb/WvjeCqpGUiBPhu_g5HrHzQVRr2E=/4494x2528/smart/filters:no_upscale()/malaysian-potato-carrot-and-tomato-soup-3030415_12-5b4ce76a46e0fb0037eb623e.jpg",
+      "MenuId" : "07",
+      "Name" : "ABC Soup",
+      "Price" : "5.00"
+    },
+    "22" : {
+      "Description" : "Pasta with cheese.",
+      "Discount" : "0",
+      "Image" : "https://hips.hearstapps.com/delish/assets/17/36/1504715566-delish-fettuccine-alfredo.jpg",
+      "MenuId" : "08",
+      "Name" : "Cheese Pasta",
+      "Price" : "19.00"
+    },
+    "23" : {
+      "Description" : "Pasta with tomato sauce.",
+      "Discount" : "0",
+      "Image" : "https://www.budgetbytes.com/wp-content/uploads/2018/04/The-Best-Weeknight-Pasta-Sauce-plate-H1.jpg",
+      "MenuId" : "08",
+      "Name" : "Tomato Pasta",
+      "Price" : "18.00"
+    },
+    "24" : {
+      "Description" : "Pasta with prawn and vegetables.",
+      "Discount" : "0",
+      "Image" : "https://images.immediate.co.uk/production/volatile/sites/2/2015/06/11540.jpg?quality=90&resize=768,574",
+      "MenuId" : "08",
+      "Name" : "Prawn Pasta",
+      "Price" : "17.00"
+    },
+    "25" : {
+      "Description" : "Juice with mixed vegetables.",
+      "Discount" : "0",
+      "Image" : "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator.com/article/2019/05/21/don-t-drink-fruit-juice-consumers-told/9497195-3-eng-GB/Don-t-drink-fruit-juice-consumers-told_wrbm_large.jpg",
+      "MenuId" : "09",
+      "Name" : "Mixed Vegetable Fruit Juice",
+      "Price" : "5.00"
+    },
+    "26" : {
+      "Description" : "Pure apple fruit juice.",
+      "Discount" : "0",
+      "Image" : "https://res.cloudinary.com/grohealth/image/upload/f_auto,fl_lossy,q_auto/v1583836679/DCUK/Content/iStock-821583034.jpg",
+      "MenuId" : "09",
+      "Name" : "Apple Juice",
+      "Price" : "6.00"
+    },
+    "27" : {
+      "Description" : "Pure orange fruit juice.",
+      "Discount" : "0",
+      "Image" : "https://www.thestatesman.com/wp-content/uploads/2017/10/juice-many-2.jpg",
+      "MenuId" : "09",
+      "Name" : "Orange Juice",
+      "Price" : "6.00"
+    },
+    "28" : {
+      "Description" : "Waffles with cream toppings.",
+      "Discount" : "0",
+      "Image" : "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/summer-desserts-1584132523.jpg",
+      "MenuId" : "10",
+      "Name" : "Waffles",
+      "Price" : "12.00"
+    },
+    "29" : {
+      "Description" : "Cake with cheese and chocolate.",
+      "Discount" : "0",
+      "Image" : "https://www.howtocookthat.net/public_html/wp-content/uploads/2016/02/toblerone-mousse-550x309.png?x19907",
+      "MenuId" : "10",
+      "Name" : "Chocolate Cake",
+      "Price" : "11.00"
+    },
+    "30" : {
+      "Description" : "Ice cream with cheese and strawberry.",
+      "Discount" : "0",
+      "Image" : "https://img.delicious.com.au/3CT4JhFm/del/2019/11/coconut-and-strawberry-ice-cream-trifle-with-gin-jelly-120078-2.jpg",
+      "MenuId" : "10",
+      "Name" : "Strawberry Ice Cream",
+      "Price" : "10.00"
+    }
+  },
+  "Rating" : {
+    "0988123344" : {
+      "comment" : "Very Good\n",
+      "foodId" : "05",
+      "rateValue" : "4",
+      "userPhone" : "0988123344"
+    }
+  },
+  "Requests" : {
+    "1600861284934" : {
+      "address" : "2A-17-05 Desa Air MAs",
+      "foods" : [ {
+        "discount1" : "0",
+        "price1" : "15.00",
+        "productId" : "01",
+        "productName" : "Cheese Pizza",
+        "quantity" : "1"
+      } ],
+      "name" : "Tiffany",
+      "phone" : "0988123344",
+      "total" : "15.0"
+    },
+    "1600862347708" : {
+      "address" : "Taman Meranti",
+      "foods" : [ {
+        "discount1" : "0",
+        "price1" : "15.00",
+        "productId" : "01",
+        "productName" : "Cheese Pizza",
+        "quantity" : "1"
+      }, {
+        "discount1" : "0",
+        "price1" : "15.00",
+        "productId" : "02",
+        "productName" : "Veggie Pizza",
+        "quantity" : "2"
+      } ],
+      "name" : "Tiffany",
+      "phone" : "0988123344",
+      "total" : "45.0"
+    },
+    "1600874376317" : {
+      "address" : "Jelutong 123",
+      "foods" : [ {
+        "discount1" : "0",
+        "price1" : "15.00",
+        "productId" : "02",
+        "productName" : "Veggie Pizza",
+        "quantity" : "1"
+      }, {
+        "discount1" : "0",
+        "price1" : "14.00",
+        "productId" : "09",
+        "productName" : "Sweet & Sour Chicken",
+        "quantity" : "1"
+      } ],
+      "name" : "Tiffany",
+      "phone" : "0988123344",
+      "status" : "0",
+      "total" : "29.0"
+    },
+    "1600874616517" : {
+      "address" : "Air Itam 567",
+      "foods" : [ {
+        "discount1" : "0",
+        "price1" : "15.00",
+        "productId" : "02",
+        "productName" : "Veggie Pizza",
+        "quantity" : "2"
+      } ],
+      "name" : "Tiffany",
+      "phone" : "0988123344",
+      "status" : "0",
+      "total" : "30.0"
+    },
+    "1602646734554" : {
+      "address" : "jalan helang",
+      "foods" : [ {
+        "discount1" : "0",
+        "price1" : "23.00",
+        "productId" : "05",
+        "productName" : "Half Platter Chicken",
+        "quantity" : "2"
+      } ],
+      "name" : "Tiffany",
+      "phone" : "0988123344",
+      "status" : "0",
+      "total" : "46.0"
+    },
+    "1602735644104" : {
+      "address" : "taman meranti",
+      "foods" : [ {
+        "discount1" : "0",
+        "price1" : "23.00",
+        "productId" : "05",
+        "productName" : "Half Platter Chicken",
+        "quantity" : "2"
+      } ],
+      "name" : "Tiffany",
+      "phone" : "0988123344",
+      "status" : "0",
+      "total" : "46.0"
+    }
+  },
+  "User" : {
+    "09881233" : {
+      "Password" : "daniel",
+      "name" : "Daniel"
+    },
+    "0184001349" : {
+      "Password" : "tiffany",
+      "name" : "Tiffany"
+    },
+    "0988123344" : {
+      "Name" : "Tiffany",
+      "Password" : "tiffanyteh"
+    },
+    "0988123345" : {
+      "Password" : "jessica",
+      "name" : "Jessica"
+    },
+    "0988123355" : {
+      "Name" : "Felicia",
+      "Password" : "felicia"
+    }
+  }
+}
